@@ -58,7 +58,7 @@ I am a final-year Ph.D. candidate at Bilkent University, specializing in the des
 *   **Cleanroom Expertise:**
        *   **Microfabrication:** Mask Aligner, ICP Etching, ALD, E-beam Evaporator, Sputtering, Thermal Evaporator, PECVD, XeF2 Etching, Wet Etching.
        *  **Characterization:** SEM/EDX, Zygo Optical Profilometer (Dynamic/Static), Impedance Analyzer, Semiconductor Parameter Analyzer (SPA), Bruker Dektak, Keyence VKX Microscope, Probe Station, Dicing Saw, LPKF PCB Milling Machine.
-*   **Simulation Tools:** OnScale, ANSYS (static analysis and modal analysis), MATLAB
+*   **Simulation Software:** OnScale, ANSYS (static analysis and modal analysis), MATLAB
 *   **Languages:** English (Proficient), Arabic (Native)
 
 ---
