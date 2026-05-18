@@ -34,7 +34,9 @@ I am a final-year Ph.D. candidate at Bilkent University, specializing in the des
     *Ahmad Elshenety, Merve Mintas Kucuk, Mehmet Yilmaz*  
     *Journal of Micromechanics and Microengineering*.
     [[DOI Link]](https://doi.org/10.1088/1361-6439/adac6b)  
-    ![Photoresist profile](p1.png)
+    <div align="center">
+      <img src="p1.png" alt="Photoresist profile" width="500">
+    </div>
     
 
 *   **Enhancing output pressure of capacitive micromachined ultrasonic transducers (CMUTs): a comparative FEM study of different pressure-boosting methods**  
