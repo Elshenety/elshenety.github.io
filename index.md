@@ -7,8 +7,7 @@ Bilkent University, Ankara, Turkey
 ---
 
 ## About Me
-I am a final-year Ph.D. candidate at Bilkent University, specializing in the design, microfabrication, and multiphysics modeling of advanced capacitive micromachined ultrasonic transducers. My research heavily focuses on **Capacitive Micromachined Ultrasonic Transducers with a Force Plate architecture (CMUT-FP)** for low-voltage highly-sensitive medical imaging, therapy, and wearable sensing applications.
-
+I am a final-year Ph.D. candidate at Bilkent University, specializing in the design, microfabrication, and multiphysics modeling of advanced capacitive micromachined ultrasonic transducers.While conventional CMUTs typically require relatively high operating voltages, my research focuses on **Capacitive Micromachined Ultrasonic Transducers with a Force Plate (CMUT-FP) architecture**. The goal is to develop low-voltage, high-sensitivity CMUT-based transducers for wearable ultrasound applications.
 ## Research & Technical Portfolio
 
 ### 1. CMUT Design & Microfabrication
