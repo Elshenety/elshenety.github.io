@@ -2,7 +2,7 @@
 
 **Ph.D. Candidate in Materials Science and Nanotechnology**  
 Bilkent University, Ankara, Turkey  
-[Email](a.elshenety@bilkent.edu.tr) | [Google Scholar]([YOUR_SCHOLAR_LINK](https://scholar.google.com/citations?user=GX00gPAAAAAJ&hl=en) | [LinkedIn](https://www.linkedin.com/in/elshenety/) | [ORCID](https://orcid.org/0000-0002-5783-4669)
+[Email](a.elshenety@bilkent.edu.tr) | [Google Scholar]([YOUR_SCHOLAR_LINK](https://scholar.google.com/citations?user=GX00gPAAAAAJ&hl=en)) | [LinkedIn](https://www.linkedin.com/in/elshenety/) | [ORCID](https://orcid.org/0000-0002-5783-4669)
 
 ---
 
