@@ -16,6 +16,7 @@ I am a final-year Ph.D. candidate at Bilkent University, specializing in the des
 * **Simulation & Modeling:** Conducted extensive multiphysics simulations utilizing **ANSYS** and **OnScale**.
 * **Cleanroom Fabrication:** Fabricated functional devices using advanced microfabrication techniques, including **ALD**, **ICP**, and **XeF₂** etching.
 * **Characterization:** Validated device performance through precise electrical measurements and optical profilometry.
+  ![cmut-fp](p1.png)
 
 ---
 
