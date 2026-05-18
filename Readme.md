@@ -20,7 +20,10 @@ I am a final-year Ph.D. candidate at Bilkent University, specializing in the des
 * **Cleanroom Fabrication:** Fabricated functional devices using advanced microfabrication techniques, including **ALD**, **ICP**, and **XeF₂** etching.
 * **Characterization:** Validated device performance through precise electrical measurements and optical profilometry.
 
-https://github.com/user-attachments/assets/dd8e3a3d-8db4-4495-88fc-bb993b176250
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/dd8e3a3d-8db4-4495-88fc-bb993b176250" controls="controls" style="max-width: 100%; max-height: 450px;">
+  </video>
+</div>
 
 ---
 
