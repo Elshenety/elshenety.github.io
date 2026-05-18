@@ -43,7 +43,9 @@ I am a final-year Ph.D. candidate at Bilkent University, specializing in the des
     *Ahmad Elshenety, Mehmet Yilmaz*  
     *Microsystem Technologies*.
     [[DOI Link]](https://doi.org/10.1007/s00542-025-05900-6)  
-    ![Photoresist profile](p2.png)  
+    <div align="center">
+      <img src="p2.png" alt="Photoresist profile" width="500">
+    </div>
 
 
 *   **Optical Characterization of Dynamic CMUTs Using Zygo Optical Profilometers: An Alternative to Laser Doppler Vibrometers**  
