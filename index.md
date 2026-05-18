@@ -26,28 +26,22 @@ I am a final-year Ph.D. candidate at Bilkent University, specializing in the des
 ---
 
 ## Selected Publications
-*I have authored 5 peer-reviewed articles in leading journals, including **Microsystem Technologies** and the **Journal of Micromechanics and Microengineering**.*
+*During my PhD, I have authored 3 peer-reviewed articles in leading journals, including **IEEE Journal of Microelectromechanical Systems**, **Journal of Micromechanics and Microengineering**, and **Microsystem Technologies**.*
 
-*   **Fabrication of Capacitive Micromachined Ultrasonic Transducer with a Force Plate (CMUT-FP)**  
-    *A. Elshenety, M. Yilmaz, M. M. Kucuk, A. Atalar.*  
-    Oral Presentation at the International Workshop on Micromachined Ultrasonic Transducers (MUT), France.  
-    [[Link to Paper/Abstract]](YOUR_LINK)
-    
-*   **Capacitive Micromachined Ultrasonic Transducers with Integrated Force Plates (CMUT-FP): Simulation and Fabrication**  
-    *A. Elshenety, M. Yilmaz, M. M. Kucuk, A. Atalar.*  
-    Poster Presentation at the 19th Nanoscience and Nanotechnology Conference (NanoTR), Turkey.  
-    [[Link to Poster/Abstract]](YOUR_LINK)
-
-*   **[Insert Journal Paper Title 1]**  
-    *Author List.*  
+*   **[High Thickness Material Lift-off Using Multi-layer Photoresist]**  
+    *Ahmad Elshenety, Merve Mintas Kucuk, Mehmet Yilmaz*  
     *Journal of Micromechanics and Microengineering*.  
-    [[DOI Link]](YOUR_DOI_LINK)
+    [[DOI Link]](https://doi.org/10.1088/1361-6439/adac6b)
 
 *   **[Insert Journal Paper Title 2]**  
     *Author List.*  
     *Microsystem Technologies*.  
     [[DOI Link]](YOUR_DOI_LINK)
 
+*   **[Insert Journal Paper Title 3]**  
+    *Author List.*  
+    *Microsystem Technologies*.  
+    [[DOI Link]](YOUR_DOI_LINK)    
 ---
 
 ## Technical Skills
