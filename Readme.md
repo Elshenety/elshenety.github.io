@@ -10,9 +10,11 @@ Bilkent University, Ankara, Turkey
 I am a final-year Ph.D. candidate at Bilkent University, specializing in the design, microfabrication, and multiphysics modeling of advanced capacitive micromachined ultrasonic transducers. While conventional CMUTs typically require relatively high operating voltages, my research focuses on developing a low-voltage stiction-free **Capacitive Micromachined Ultrasonic Transducers with a Force Plate (CMUT-FP)**. By leveraging this design, my work has successfully achieved a **$>2.6\times$** sensitivity enhancement alongside a significantly **reduced operating voltage**. My core research focus is to deliver **low-voltage**, **high-sensitivity**, and **wide-band** CMUT-based transducers optimized for **wearable ultrasound**.
 ## Research & Technical Portfolio
 
-### 1. CMUT Design & Microfabrication
-*   **Architectures:** Specialized in CMUTs to optimize sensitivity, bandwidth, and average displacement.
-*   **Cleanroom Fabrication:** Hands-on experience in developing complete microfabrication process flows. Experienced in implementing **dry release microfabrication plans** using Xenon Difluoride ($XeF_2$) etching to mitigate stiction and improve device yield compared to traditional wet etching methods.
+### 1. Novel CMUT Architecture Development (CMUT-FP)
+* **Design & Innovation:** Developed a novel CMUT architecture (**CMUT-FP**) engineered for enhanced sensitivity and lower voltage requirements.
+* **Simulation & Modeling:** Conducted extensive multiphysics simulations utilizing **ANSYS** and **OnScale**.
+* **Cleanroom Fabrication:** Fabricated functional devices using advanced microfabrication techniques, including **ALD**, **ICP**, and **XeF₂** etching.
+* **Characterization:** Validated device performance through precise electrical measurements and optical profilometry.
 
 ### 2. Multiphysics Modeling & Simulation
 *   **Finite Element Analysis (FEA):** Extensive experience in high-performance acoustic and structural simulations using **OnScale** and **ANSYS**.
