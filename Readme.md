@@ -54,4 +54,4 @@ I am a final-year Ph.D. candidate at Bilkent University, specializing in the des
 *   **Languages:** English (Proficient), Arabic (Native)
 
 ---
-*References available upon request or contact Prof. Abdullah Atalar (atalar@bilkent.edu.tr).*
+*References available upon request*
