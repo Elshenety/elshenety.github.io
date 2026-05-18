@@ -29,8 +29,8 @@ I am a final-year Ph.D. candidate at Bilkent University, specializing in the des
 *   **[High Thickness Material Lift-off Using Multi-layer Photoresist]**  
     *Ahmad Elshenety, Merve Mintas Kucuk, Mehmet Yilmaz*  
     *Journal of Micromechanics and Microengineering*.  
-    [[DOI Link]](https://doi.org/10.1088/1361-6439/adac6b)
     ![Photoresist profile](p1.png)
+    [[DOI Link]](https://doi.org/10.1088/1361-6439/adac6b)
 
 *   **[Enhancing output pressure of capacitive micromachined ultrasonic transducers (CMUTs): a comparative FEM study of different pressure-boosting methods]**  
     *Ahmad Elshenety, Mehmet Yilmaz*  
