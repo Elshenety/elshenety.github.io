@@ -12,7 +12,7 @@ I am a final-year Ph.D. candidate at Bilkent University, specializing in the des
 
 ### 1. CMUT Design & Microfabrication
 *   **Architectures:** Specialized in CMUTs to optimize sensitivity, bandwidth, and average displacement.
-*   **Cleanroom Fabrication:** Hands-on experience in developing complete microfabrication process flows. Eperienced in implementing **dry release microfabrication plans** using Xenon Difluoride ($XeF_2$) etching to mitigate stiction and improve device yield compared to traditional wet etching methods.
+*   **Cleanroom Fabrication:** Hands-on experience in developing complete microfabrication process flows. Experienced in implementing **dry release microfabrication plans** using Xenon Difluoride ($XeF_2$) etching to mitigate stiction and improve device yield compared to traditional wet etching methods.
 
 ### 2. Multiphysics Modeling & Simulation
 *   **Finite Element Analysis (FEA):** Extensive experience in high-performance acoustic and structural simulations using **OnScale** and **ANSYS**.
