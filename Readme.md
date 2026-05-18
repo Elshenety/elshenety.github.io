@@ -36,7 +36,7 @@ I am a final-year Ph.D. candidate at Bilkent University, specializing in the des
     *Ahmad Elshenety, Mehmet Yilmaz*  
     *Microsystem Technologies*.  
     [[DOI Link]](https://doi.org/10.1007/s00542-025-05900-6)
-    ![](p2.png)
+    [](p2.png)
 
 *   **[Optical Characterization of Dynamic CMUTs Using Zygo Optical Profilometers: An Alternative to Laser Doppler Vibrometers]**  
     *Ahmad Elshenety, Merve Mintas Kucuk, Mehmet Yilmaz*  
