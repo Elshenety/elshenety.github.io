@@ -33,15 +33,15 @@ I am a final-year Ph.D. candidate at Bilkent University, specializing in the des
     *Journal of Micromechanics and Microengineering*.  
     [[DOI Link]](https://doi.org/10.1088/1361-6439/adac6b)
 
-*   **[Insert Journal Paper Title 2]**  
-    *Author List.*  
+*   **[Enhancing output pressure of capacitive micromachined ultrasonic transducers (CMUTs): a comparative FEM study of different pressure-boosting methods]**  
+    *Ahmad Elshenety, Mehmet Yilmaz*  
     *Microsystem Technologies*.  
-    [[DOI Link]](YOUR_DOI_LINK)
+    [[DOI Link]](https://doi.org/10.1007/s00542-025-05900-6)
 
-*   **[Insert Journal Paper Title 3]**  
-    *Author List.*  
-    *Microsystem Technologies*.  
-    [[DOI Link]](YOUR_DOI_LINK)    
+*   **[Optical Characterization of Dynamic CMUTs Using Zygo Optical Profilometers: An Alternative to Laser Doppler Vibrometers]**  
+    *Ahmad Elshenety, Merve Mintas Kucuk, Mehmet Yilmaz*  
+    *Journal of Microelectromechanical Systems*.  
+    [[DOI Link]](https://doi.org/10.1109/JMEMS.2024.3524004)    
 ---
 
 ## Technical Skills
